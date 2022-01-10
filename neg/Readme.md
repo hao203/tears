@@ -1,2 +1,2 @@
-All_sample_info.xlsx --all the metobolites info of ESI- mode
+neg_All_sample_info.xlsx --all the metobolites info of ESI- mode
 
