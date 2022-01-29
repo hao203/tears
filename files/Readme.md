@@ -8,6 +8,8 @@ S_Figure 3: Validation analysis by comparing the goodness of fit (R2 and Q2) of 
 
 S_Figure 4: Volcano plots of the overall influential metabolites. C Group: reflex tears; S Group: negative emotional tears; M Group: positive emotional tears.
 
+S_Figure 5 Heatmaps of cluster analysis of the overall influential metabolites. A: ESI+ C vs. S; B: ESI+ C vs. M; C: ESI– C vs. M; D: ESI– S vs. M; C Group: reflex tears; S Group: negative emotional tears; M Group: positive emotional tears.
+
 S_Table 1: Source MS/MS parameters
 
 S_Table 2: Ocular surface examinations of the participants
